@@ -1,0 +1,149 @@
+F:/2-1/DSD_LAB/Up_Down_Synchronus_Counter.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/Up_Down_Synchronus_Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module jkflipflop
+
+Top level modules:
+	jkflipflop
+
+} {} {}} F:/2-1/DSD_LAB/Bin_To_Ex-3.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/Bin_To_Ex-3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BinToEx3
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} F:/2-1/DSD_LAB/Ex-3_To_Bin.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/Ex-3_To_Bin.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Ex3ToBin
+-- Compiling module testBench
+
+Top level modules:
+	testBench
+
+} {} {}} F:/2-1/DSD_LAB/jkff.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/jkff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JKFF
+
+Top level modules:
+	JKFF
+
+} {} {}} F:/2-1/DSD_LAB/BCDADDER.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/BCDADDER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BCDADDER
+-- Compiling module BCDADDER_TEST
+
+Top level modules:
+	BCDADDER_TEST
+
+} {} {}} F:/2-1/DSD_LAB/4_Bit_Adder.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/4_Bit_Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module four_bit_adder
+-- Compiling module Full_Adder
+-- Compiling module testt
+
+Top level modules:
+	testt
+
+} {} {}} F:/2-1/DSD_LAB/BCD_4bit_ADDER.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/BCD_4bit_ADDER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module full_adder
+-- Compiling module four_bit_full_adder
+-- Compiling module bcd_4_bit_full_adder
+-- Compiling module test_bcd_adder
+
+Top level modules:
+	test_bcd_adder
+
+} {} {}} F:/2-1/DSD_LAB/custom.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/custom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module jk_master_slv
+-- Compiling module three_bit_secquential_counter
+
+Top level modules:
+	three_bit_secquential_counter
+
+} {} {}} F:/2-1/DSD_LAB/BCDtoEX3.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/BCDtoEX3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BCDtoEX3
+-- Compiling module BCDtoEX3_TEST
+
+Top level modules:
+	BCDtoEX3_TEST
+
+} {} {}} F:/2-1/DSD_LAB/FOURbitFULLADDER.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/FOURbitFULLADDER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FOURbitFULLADDER
+-- Compiling module FULLADDER
+-- Compiling module FOURbitFULLADDER_TEST
+
+Top level modules:
+	FOURbitFULLADDER_TEST
+
+} {} {}} F:/2-1/DSD_LAB/deep.v {0 {vlog -work work -stats=none F:/2-1/DSD_LAB/deep.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JK_FF
+-- Compiling module FourBitUpDown
+** Error: (vlog-13069) F:/2-1/DSD_LAB/deep.v(21): near "b": syntax error, unexpected IDENTIFIER, expecting ';' or ','.
+
+} {5.0 6.0} {}} F:/2-1/DSD_LAB/Mod_10_Counter.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/Mod_10_Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mod_10_Counter
+-- Compiling module jk_ff
+
+Top level modules:
+	Mod_10_Counter
+
+} {} {}} F:/2-1/DSD_LAB/BINtoGRAY.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/BINtoGRAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BINtoGRAY
+-- Compiling module BINtoGRAY_TEST
+
+Top level modules:
+	BINtoGRAY_TEST
+
+} {} {}} F:/2-1/DSD_LAB/test.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testccc
+
+Top level modules:
+	testccc
+
+} {} {}} F:/2-1/DSD_LAB/MOD10COUNTER.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/MOD10COUNTER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MOD10COUNTER
+
+Top level modules:
+	MOD10COUNTER
+
+} {} {}} F:/2-1/DSD_LAB/UPDOWNSYNCHRONUSCOUNTER.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/UPDOWNSYNCHRONUSCOUNTER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UPDOWNSYNCHRONUSCOUNTER
+
+Top level modules:
+	UPDOWNSYNCHRONUSCOUNTER
+
+} {} {}} F:/2-1/DSD_LAB/Synchronus_Counter.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/Synchronus_Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mycounter
+
+Top level modules:
+	mycounter
+
+} {} {}} F:/2-1/DSD_LAB/EX3toBCD.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/EX3toBCD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module EX3toBCD
+-- Compiling module EX3toBCD_TEST
+
+Top level modules:
+	EX3toBCD_TEST
+
+} {} {}} F:/2-1/DSD_LAB/qs.v {1 {vlog -work work -stats=none F:/2-1/DSD_LAB/qs.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module qs
+-- Compiling module testxxxxx
+
+Top level modules:
+	testxxxxx
+
+} {} {}}
